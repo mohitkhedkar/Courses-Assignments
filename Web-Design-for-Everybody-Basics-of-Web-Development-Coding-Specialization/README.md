@@ -1,6 +1,4 @@
 # Web-Design-for-Everybody-Basics-of-Web-Development-Coding-Specialization
-Web Design for Everybody: Basics of Web Development &amp; Coding Specialization by University of Michigan
-
 This is a repository for [Web Design For Everybody Specialization on Coursera (University of Michigan)](https://www.coursera.org/specializations/web-design).
 
 ## About this Specialization
