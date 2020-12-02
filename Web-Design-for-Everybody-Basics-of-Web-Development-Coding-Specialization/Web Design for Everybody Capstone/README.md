@@ -5,12 +5,12 @@ Demo portfolio for capstone Assignment
 
 ### Wireframes
 
-![](https://github.com/mohitkhedkar/Coursera/blob/master/Web-Design-for-Everybody-Basics-of-Web-Development-Coding-Specialization/Web%20Design%20for%20Everybody%20Capstone/Wireframes/Mobile.jpg)
+![](https://github.com/mohitkhedkar/Coursera/blob/main/Web-Design-for-Everybody-Basics-of-Web-Development-Coding-Specialization/Web%20Design%20for%20Everybody%20Capstone/Wireframes/Mobile.jpg)
 
-![](https://github.com/mohitkhedkar/Coursera/blob/master/Web-Design-for-Everybody-Basics-of-Web-Development-Coding-Specialization/Web%20Design%20for%20Everybody%20Capstone/Wireframes/Desktop.jpg)
+![](https://github.com/mohitkhedkar/Coursera/blob/main/Web-Design-for-Everybody-Basics-of-Web-Development-Coding-Specialization/Web%20Design%20for%20Everybody%20Capstone/Wireframes/Desktop.jpg)
 
 ### Site DEMO 
 
-![](https://github.com/mohitkhedkar/Coursera/blob/master/Web-Design-for-Everybody-Basics-of-Web-Development-Coding-Specialization/Web%20Design%20for%20Everybody%20Capstone/Images/Moblie.jpeg).
+![](https://github.com/mohitkhedkar/Coursera/blob/main/Web-Design-for-Everybody-Basics-of-Web-Development-Coding-Specialization/Web%20Design%20for%20Everybody%20Capstone/Images/Moblie.jpeg).
 
-![](https://github.com/mohitkhedkar/Coursera/blob/master/Web-Design-for-Everybody-Basics-of-Web-Development-Coding-Specialization/Web%20Design%20for%20Everybody%20Capstone/Images/Desktop.JPG).
+![](https://github.com/mohitkhedkar/Coursera/blob/main/Web-Design-for-Everybody-Basics-of-Web-Development-Coding-Specialization/Web%20Design%20for%20Everybody%20Capstone/Images/Desktop.JPG).
