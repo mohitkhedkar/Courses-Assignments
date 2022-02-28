@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">NYTimesArticles</string>
-    <string name="app_title">NY Times Most Popular</string>
-    <string name="menu_settings">Save for later</string>
-    <string name="menu_search">Search</string>
-</resources>
