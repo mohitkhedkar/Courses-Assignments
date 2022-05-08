@@ -16,12 +16,12 @@
 |   ├── C# Programming for Unity Game Development Specialization on Coursera (University of Colorado System)
 |   └── ...
 |
-├── freecodecamp
-|   ├── Responsive Web design
+├── Freecodecamp
+|   ├── Responsive Web Design
 |   └── ...
 |
 ├── Udemy
-|   ├── 
+|   ├── JavaScript Bootcamp 
 |   └── ...
 └── ...
 ```
