@@ -14,6 +14,7 @@
 |   ├── Web Design For Everybody Specialization on Coursera (University of Michigan)
 |   ├── Android App Development Specialization (Vanderbilt University)
 |   ├── C# Programming for Unity Game Development Specialization on Coursera (University of Colorado System)
+|   |-- Excel-Basics-for-Data-Analysis (IBM)
 |   └── ...
 |
 ├── Freecodecamp
@@ -21,11 +22,10 @@
 |   └── ...
 |
 ├── Udemy
-|   ├── JavaScript Bootcamp 
+|   ├── JavaScript Bootcamp
 |   └── ...
 └── ...
 ```
-
 
 ## License
 
